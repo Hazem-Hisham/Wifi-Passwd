@@ -1,1 +1,2 @@
-# Wifi-Passwd
+# Usage
+Python get wifi password.py 
